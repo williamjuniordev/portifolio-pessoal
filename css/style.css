@@ -1,15 +1,26 @@
-body {
+* {
   font-family: "Roboto", sans-serif;
-  background: #ddd;
+  margin: 0px;
+  padding: 0px;
+  color: #efffff;
+}
+body {
+  background: #01050d;
 }
 
-.construcao {
-  text-align: center;
+a {
+  text-decoration: none;
+  color: #efffff;
 }
 
-h1 {
-  font-weight: 700;
+ul {
+  list-style-type: none;
 }
-h2 {
-  font-weight: 500;
+
+.nav-menu {
+  background: #0b1222;
+}
+
+.footer {
+  background: #0b1222;
 }
