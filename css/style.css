@@ -5,7 +5,7 @@
   color: #efffff;
 }
 body {
-  background: #01050d;
+  background: #1b1d20;
 }
 
 a {
@@ -18,9 +18,11 @@ ul {
 }
 
 .nav-menu {
-  background: #0b1222;
+  background: #000000;
 }
 
 .footer {
-  background: #0b1222;
+  background: #000000;
+  height: 120px;
+  text-align: center;
 }
